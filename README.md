@@ -2,6 +2,10 @@
 
 Device control code for the Sunshine Scooters project.
 
+## DISCLAIMER / AGREEMENT
+
+**The use of this code is bound not only by the MIT license included but also by the legal agreement listed in the AGREEMENT file. This code is utilized to control a device that comes with certain risks. Utilization, compilation, and execution of this code for such purpose to control a mobility device is permitted with adhereance to the terms listed in the `AGREEMENT` file in this code repository.**
+
 ## How to Use
 
 Add the source code files contained with the `src/` directory to your Arduino Create IDE.
