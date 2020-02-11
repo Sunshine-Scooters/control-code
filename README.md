@@ -12,11 +12,13 @@ This project contains the Arduino controller code to modify a [Hot Wheels Wild T
 
 To use this code, you will need an [Arduino UNO](https://www.arduino.cc/en/Guide/ArduinoUno) and a [Cytron PS2 Shield](https://www.cytron.io/p-cytron-ps2-shield).
 
+The project code assumes that the Arduino and PS2 Shield as wired according the  wiring diagram in the included Wiring Diagram.pdf file.
+
+
+
 ## How to Use
 
 To use this code you need to utilize the [Arduino Create IDE](https://www.arduino.cc/en/Main/Create). Once you have the IDE installed and have successfully run one of the test programs you will be ready to utilize this project.
-
-In addition, the project code assumes that the Arduino and PS2 Shield as wired according the  wiring diagram in the included Wiring Diagram.pdf file.
 
 1. Ensure you can follow the general [Arduino UNO getting started instructions](https://www.arduino.cc/en/Guide/ArduinoUno).
 2. To utilize this code, add the three source code files included in the `src/` directory to your project. These include:
