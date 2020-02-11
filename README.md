@@ -28,6 +28,8 @@ In addition, the project code assumes that the Arduino and PS2 Shield as wired a
 5. Click the Right Arrow to Upload and Save.
 6. After the code is uploaded, move the jumpers on the Cytron PS2 Shield board to D1 (TX) and D0 (RX).
 
+![Jumper Illustration](https://i2.wp.com/tutorial.cytron.io/wp-content/uploads/2015/06/Picture11.jpg?resize=400%2C316&ssl=1 "Jumper Illustration")
+
 
 ## Notes on Cytron PS2 Shield Dependency
 
